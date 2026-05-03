@@ -1,4 +1,4 @@
-# 🧠 Análise de Dados: Dashboard Interativo de Vendas de Games no Looker Studio
+# 🧠 Looker Studio: Dashboard Interativo de Vendas de Games
 
 Este projeto faz parte do Módulo Looker Studio do curso de Cientista de Dados da EBAC e tem como objetivo a construção de um dashboard interativo no Looker Studio para análise de vendas no mercado de games.
 
